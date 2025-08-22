@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "050804",
-    "database": "test_db",
+    "database": "node_fullstack",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
